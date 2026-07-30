@@ -1,0 +1,8 @@
+public/storage
+storage/framework/sessions
+storage/framework/cache
+storage/framework/views
+storage/logs
+vendor
+node_modules
+.env
